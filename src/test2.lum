@@ -1,0 +1,5 @@
+
+
+function say_hi()
+	print('say hi')
+end
