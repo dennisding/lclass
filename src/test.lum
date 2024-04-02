@@ -1,0 +1,12 @@
+
+local test2 = _import('test2')
+
+test2.say_hi()
+
+i = 40
+
+i2 = 20
+
+function test()
+	print('module test fun')
+end
